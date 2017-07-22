@@ -1,0 +1,13 @@
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.exe
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.pdb
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\bin\Debug\MetroFramework.dll
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.csprojResolveAssemblyReference.cache
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.Cache
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.exe
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.pdb
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.ComPort.resources
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\bin\Debug\System.Net.Http.dll
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\bin\Debug\System.Net.Http.xml
+C:\Users\Dragon_Rage\Documents\Visual Studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.Splash.resources
